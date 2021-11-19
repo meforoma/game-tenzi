@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/game-tenzi/static/css/main.52119fc8.chunk.css",
+    "main.js": "/game-tenzi/static/js/main.dba721b5.chunk.js",
+    "main.js.map": "/game-tenzi/static/js/main.dba721b5.chunk.js.map",
+    "runtime-main.js": "/game-tenzi/static/js/runtime-main.dd613a9a.js",
+    "runtime-main.js.map": "/game-tenzi/static/js/runtime-main.dd613a9a.js.map",
+    "static/js/2.7c5c9013.chunk.js": "/game-tenzi/static/js/2.7c5c9013.chunk.js",
+    "static/js/2.7c5c9013.chunk.js.map": "/game-tenzi/static/js/2.7c5c9013.chunk.js.map",
+    "index.html": "/game-tenzi/index.html",
+    "static/css/main.52119fc8.chunk.css.map": "/game-tenzi/static/css/main.52119fc8.chunk.css.map",
+    "static/js/2.7c5c9013.chunk.js.LICENSE.txt": "/game-tenzi/static/js/2.7c5c9013.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd613a9a.js",
+    "static/js/2.7c5c9013.chunk.js",
+    "static/css/main.52119fc8.chunk.css",
+    "static/js/main.dba721b5.chunk.js"
+  ]
+}
